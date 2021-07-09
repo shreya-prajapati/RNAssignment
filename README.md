@@ -5,4 +5,4 @@
 * Clone git repository to your local computer or download it
 * Open command prompt / terminal and go to downloaded/cloned repository
 * Run command "npm install"
-* Run "npx react-native run-android" or "npx react-native run-ios" to run the app.
+* Run "npx react-native run-android" to run the app in android devices.
